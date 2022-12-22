@@ -1,0 +1,13 @@
+[submodule "8anos/themes/ananke"]
+	path = 8anos/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "8anos/themes/hugo.386"]
+	path = 8anos/themes/hugo.386
+	url = https://gitlab.com/maxlefou/hugo.386
+[submodule "8anos/themes/just-me"]
+	path = 8anos/themes/just-me
+	url = https://github.com/jota-ele-ene/just-me.git
+[submodule "8anos/themes/blowfish"]
+	path = 8anos/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
